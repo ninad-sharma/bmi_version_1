@@ -1,3 +1,4 @@
+cat >> .gitignore << 'EOF'
 __pycache__/
 .venv/
 .env
@@ -7,5 +8,14 @@ __pycache__/
 *.db
 .idea/
 .vscode/
-service_account.json
-service_account.json
+EOF
+git add .gitignore && git commit -m "chore: python .gitignore"
+__pycache__/
+.venv/
+.env
+*.pyc
+.DS_Store
+*.sqlite3
+*.db
+.idea/
+.vscode/
