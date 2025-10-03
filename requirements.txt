@@ -2,4 +2,8 @@ pandas       # for working with tables of data
 gspread      # helper to work with Google Sheets
 google-auth  # for authenticating with Google APIs
 python-dateutil # for handling dates and time zones
-streamlit    # for building the mini dashboard
+streamlit    # for building the mini dashboardgoogle-auth==2.41.1
+google-auth-oauthlib==1.2.2
+gspread==6.2.1
+pandas==2.3.3
+python-dotenv==1.1.1
