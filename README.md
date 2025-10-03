@@ -1,1 +1,1 @@
-This is the folder for BMI Game version 1 
+This is the folder for BMI Game version 1 - I saw this on github
