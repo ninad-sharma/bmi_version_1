@@ -1,0 +1,5 @@
+pandas       # for working with tables of data
+gspread      # helper to work with Google Sheets
+google-auth  # for authenticating with Google APIs
+python-dateutil # for handling dates and time zones
+streamlit    # for building the mini dashboard
